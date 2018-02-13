@@ -6,8 +6,8 @@
 
 
 const int LED1 = 9;// the pin for the LED
-const int LED2 = 8;
-const int LED3 = 7;
+const int LED2 = 10;
+const int LED3 = 11;
 const int LED4 = 6;
 const int BUTTON = 5;
 
